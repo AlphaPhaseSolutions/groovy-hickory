@@ -99,7 +99,6 @@ fields:
     required: true
 pages:
 - products/sauna-cover.md
-- products/sauna-covers.md
 - products/plant9.md
 - products/plant8.md
 - products/plant7.md
