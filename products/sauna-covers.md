@@ -24,24 +24,3 @@ featured: true
 section: Store
 
 ---
-    <button class="snipcart-add-item"
-    
-      data-item-id="sauna-cover"
-    
-      data-item-price="100"
-    
-      data-item-url="/products/sauna-covers/#"
-    
-      data-item-description="Custom made sauna cover"
-    
-      data-item-image="https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjXk4nYgILmAhWQr54KHRmOCioQjRx6BAgBEAQ&url=https%3A%2F%2Frockymountainsaunas.com%2Fpages%2Foutdoor-infrared-sauna-sunbrella-cover&psig=AOvVaw1yjNBNPbbARg2yptvTBWZx&ust=1574655952929010\"
-    
-      data-item-name="Sauna Cover"
-    
-      data-item-custom1-name="Material"
-    
-      data-item-custom1-options="Brown Canvas [+100.00]|White Canvas [+75.00]|Black Canvas [+50.00]">
-    
-      Add to cart
-    
-    </button>
