@@ -1,6 +1,6 @@
 ---
 layout: product
-id: Sauna-Covers
+id: Sauna-Cover
 title: Sauna Covers
 description: Custom made sauna cover
 price: "100"
