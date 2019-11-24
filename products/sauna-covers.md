@@ -7,7 +7,7 @@ price: "100"
 images:
   default:
     thumbnail:
-      optimized: ''
+      optimized: "/images/leaf.svg"
       fallback: ''
     original:
       optimized: ''
