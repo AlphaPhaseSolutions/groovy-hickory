@@ -32,7 +32,7 @@ section: Store
 
   data-item-url="/products/sauna-covers"
 
-  data-item-description="Custom made sauna cover."
+  data-item-description="Custom made sauna cover"
 
   data-item-image="[https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjXk4nYgILmAhWQr54KHRmOCioQjRx6BAgBEAQ&url=https%3A%2F%2Frockymountainsaunas.com%2Fpages%2Foutdoor-infrared-sauna-sunbrella-cover&psig=AOvVaw1yjNBNPbbARg2yptvTBWZx&ust=1574655952929010](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjXk4nYgILmAhWQr54KHRmOCioQjRx6BAgBEAQ&url=https%3A%2F%2Frockymountainsaunas.com%2Fpages%2Foutdoor-infrared-sauna-sunbrella-cover&psig=AOvVaw1yjNBNPbbARg2yptvTBWZx&ust=1574655952929010 "https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwjXk4nYgILmAhWQr54KHRmOCioQjRx6BAgBEAQ&url=https%3A%2F%2Frockymountainsaunas.com%2Fpages%2Foutdoor-infrared-sauna-sunbrella-cover&psig=AOvVaw1yjNBNPbbARg2yptvTBWZx&ust=1574655952929010")"
 
