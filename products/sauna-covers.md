@@ -26,7 +26,7 @@ section: Store
 ---
 <button class="snipcart-add-item"
 
-  data-item-id="Sauna-Covert"
+  data-item-id="Sauna-Cover"
 
   data-item-price="100"
 
