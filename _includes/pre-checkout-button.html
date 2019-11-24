@@ -9,7 +9,7 @@
 
 
 
-               document.getElementById('price').value = (length-input*5)+(height-input*5)+(width-input*5);
+               document.getElementById('price').value = (length-input*5)+(height-input*4)+(width-input*3);
        </script>
 
    </head>
@@ -35,15 +35,16 @@
    Buy now
 </button>
 
-$5 per inch
-length in inches
+var t = document.createTextNode("Hello World");
 <input type="number" id="data-item-length" />
-height in inches
+
 <input type="number" id="data-item-height" />
-width in inches
+
 <input type="number" id="data-item-width" />
 
+document.write(price);
 
+window.alert(price);
 
 
 
