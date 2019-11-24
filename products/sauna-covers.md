@@ -11,7 +11,7 @@ images:
       fallback: ''
     original:
       optimized: ''
-      fallback: ''
+      fallback: "/images/leaf.svg"
   featured:
     thumbnail:
       optimized: ''
