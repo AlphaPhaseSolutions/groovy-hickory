@@ -1,13 +1,51 @@
+<! –– Start LxHxH Calc for price ––>
+<script>
+
+           function calc()
+           {
+               var length-input = parseFloat(document.getElementById('length-nom').value);
+               var height-input = parseFloat(document.getElementById('length-nom').value);
+               var width-input = parseFloat(document.getElementById('length-nom').value);
+
+
+
+               document.getElementById('price').value = (length-input*5)+(height-input*4)+(width-input*3);
+       </script>
+
+   </head>
+   <body>
+
+       <input type="text" id="length-nom"/><br/><br/>
+       <input type="text" id="height-nom"/><br/><br/>
+        <input type="text" id="width-nom"/><br/><br/>
+
+
+   </body>
+</html>
+
+<! –– End LxHxH Calc for price ––>
+
+
 <button class="snipcart-add-item" id="pre-checkout-button"
  data-item-id="1"
  data-item-url="/"
  data-item-name="Item"
- data-item-price="20.00"
+ data-item-price= price
  data-item-quantity="10">
    Buy now
 </button>
 
-<input type="number" id="my-quantity" />
+<input type="number" id="data-item-length" />
+<input type="number" id="data-item-height" />
+<input type="number" id="data-item-width" />
+
+
+
+
+
+
+
+
 
 <! –– $('#my-quantity').change(function() {
     $('#my-button').data('item-quantity', $(this).val());
