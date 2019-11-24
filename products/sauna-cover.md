@@ -22,6 +22,5 @@ images:
 category: summer
 featured: true
 section: Store
-published: false
 
 ---
