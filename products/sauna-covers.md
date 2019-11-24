@@ -30,7 +30,7 @@ section: Store
 
   data-item-price="100"
 
-  data-item-url="/products/sauna-cover/"
+  data-item-url="/products/sauna-covers"
 
   data-item-description="Custom made sauna cover."
 
