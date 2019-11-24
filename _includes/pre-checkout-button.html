@@ -1,0 +1,14 @@
+<button class="snipcart-add-item" id="pre-checkout-button"
+ data-item-id="1"
+ data-item-url="/"
+ data-item-name="Item"
+ data-item-price="20.00"
+ data-item-quantity="10">
+   Buy now
+</button>
+
+<input type="number" id="my-quantity" />
+
+$('#my-quantity').change(function() {
+    $('#my-button').data('item-quantity', $(this).val());
+});
