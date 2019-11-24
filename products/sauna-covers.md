@@ -1,6 +1,6 @@
 ---
 layout: product
-id: Sauna-Cover
+id: sauna-cover
 title: Sauna Cover
 description: Custom made sauna cover
 price: "100"
@@ -26,7 +26,7 @@ section: Store
 ---
 <button class="snipcart-add-item"
 
-  data-item-id="Sauna-Cover"
+  data-item-id="sauna-cover"
 
   data-item-price="100"
 
